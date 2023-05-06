@@ -21,3 +21,7 @@ sudo ./TESTPLOT.113
 ```
 
 #### The scan result is saved in pdf format in the /var/log/testplot/ directory
+
+### Example:
+
+![изображение](https://user-images.githubusercontent.com/37213906/236639102-2b77ad89-ec02-4200-a899-36a61891c637.png)
